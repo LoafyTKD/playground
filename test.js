@@ -1,1 +1,1 @@
-console.log("Hello. World!");screenLeft
+console.log("Hello. World!");

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktest_01=self.webpackChunktest_01||[]).push([[4718],{4559:e=>{e.exports=JSON.parse('{"title":"Heroes","slug":"/category/heroes","permalink":"/playground/docs/category/heroes","navigation":{"next":{"title":"BM","permalink":"/playground/docs/hero/blademaster"}}}')}}]);
